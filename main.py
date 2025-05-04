@@ -3,7 +3,7 @@ import time
 startTime = time.time()
 
 ## Pemindaian port mirip dengan pergi ke rumah seseorang dan memeriksa pintu dan jendelanya.
-## Itulah mengapa disarankan untuk menggunakan pemindai port pada hos lokal atau situs web Anda sendiri (jika ada).
+## Itulah mengapa disarankan untuk menggunakan pemindai port pada host lokal atau situs web Anda sendiri (jika ada).
 print("""
             
             ███╗   ██╗███████╗████████╗██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗    ███████╗ █████╗ ███╗   ██╗███╗   ██╗██╗███╗   ██╗ ██████╗         
